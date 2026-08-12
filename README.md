@@ -1,4 +1,4 @@
-# Speech Processing Assignment - HMM-DNN Based Automatic Speech Recognition
+# HMM-DNN Based Automatic Speech Recognition
 
 ## Assignment Topic
 
